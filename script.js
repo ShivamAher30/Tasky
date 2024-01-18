@@ -1,10 +1,3 @@
-// Mongodb
-
-  
-
-
-
-
 {
   var taskCount = 0;
   var input = document.querySelectorAll(".taskinput");
